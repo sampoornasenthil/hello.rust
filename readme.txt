@@ -7,3 +7,15 @@ rustc hello.rs
 execute
 
 ./hello
+
+
+
+git clone projectname_with_url
+
+git add filename
+git commit -m "commit message"
+
+git push
+
+
+git pull
