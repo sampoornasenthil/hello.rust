@@ -1,1 +1,4 @@
-fn main(){}
+fn main(){
+print!("Hello, sam!\n");
+
+}
