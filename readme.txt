@@ -12,6 +12,8 @@ execute
 
 git clone projectname_with_url
 
+
+git status
 git add filename
 git commit -m "commit message"
 
